@@ -62,6 +62,7 @@ Used open-jdk **version 17** (https://openjdk.org/projects/jdk/17/)
 
 * The VAT microservices will be auto registered to the service discovery and we can see it at http://localhost:8761/
 
+![image](https://user-images.githubusercontent.com/123809223/215836332-2fa2d484-8bee-47cd-ac72-be22e95f41b7.png)
 
 
 * You can view the API doc using swagger-ui at http://localhost:8081/swagger-ui/index.html
